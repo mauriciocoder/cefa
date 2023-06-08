@@ -1,0 +1,41 @@
+Focus on building, not managing
+Let MongoDB Atlas take care of the infrastructure operations you need for performance at scale, from always-on security to point-in-time recovery.
+
+https://www.mongodb.com/docs/atlas/api/data-api/
+
+
+To Register: https://www.mongodb.com/cloud/atlas/register
+
+https://cloud.mongodb.com/
+
+mauricio.coder@outlook.com
+mlb310586
+
+
+
+
+Watch later: https://www.youtube.com/watch?v=11phu1pEJm4
+
+
+
+#### Database CEFA
+
+mauriciocoder
+mlb310586
+
+
+Search by id:
+{"_id": {$lt: 4}}
+{"_id": 4}
+
+Search by writer:
+{ "writers.name": "Bruno Cava" }
+{ "writers._id": 4 }
+{ "writers.name": { $regex: /Cava/i } }
+{ "writers.name": { $regex: "^Ghiraldelli", $options: "i" } }
+ 
+
+
+
+cefa api key:
+s3jMtGomdPP9zycCNRDYlvSagDLEaX4pDwnrr00xYF7vzu8J5hNwqy4OLbINlzdR

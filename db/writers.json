@@ -1,0 +1,26 @@
+[
+    { 
+        "_id": 1,
+        "name": "Paulo Ghiraldelli Jr.",
+        "image": "https://i0.wp.com/cefaeditorial.com/wp-content/uploads/2023/05/pauloghiraldelli.jpeg?fit=200%2C300&ssl=1",
+        "bio": "Paulo Ghiraldelli é filósofo, escritor e jornalista. Possui mestrado e doutorado em Filosofia pela USP. É pós-doutor em Medicina Social pela UERJ. Também é mestre e doutor em Filosofia e História da Educação pela PUC-SP. Graduado em Filosofia pela Mackenzie e licenciado em Educação Física pela UFSCar. Livre docente e professor titular pela UNESP. Lecionou em diversas universidades do país e esteve como pesquisador convidado na Oklahoma State University (USA) e na University Of Auckland – Nova Zelândia. Atualmente é membro da ISFP – International Society Philosophy. É editor do Contemporary Pragmatism – periódico internacional . Coordenador e pesquisador do Centro de Estudos em Filosofia Americana (CEFA) e trabalha no canal do filósofo (youtube.com/tvfilosofia)."
+    },
+    { 
+        "_id": 2,
+        "name": "Ilan Lapyda",
+        "image": "https://i0.wp.com/cefaeditorial.com/wp-content/uploads/2023/05/Ilan_Lapyda_cefaeditorial.jpeg?fit=200%2C300&ssl=1",
+        "bio": "Ilan Lapyda é doutor em Sociologia, possui Mestrado em Sociologia (2011) e Graduação em Ciências Sociais (2007) pela Universidade de São Paulo, tendo realizado intercâmbio de 1 ano durante a graduação na Universidade Paris X – Nanterre. Licenciado em Ciências Sociais desde 2016, possui experiência na área de Sociologia, atuando principalmente nos seguintes temas: marxismo e financeirização."
+    },
+    { 
+        "_id": 3,
+        "name": "Bruno Cava",
+        "image": "https://i0.wp.com/cefaeditorial.com/wp-content/uploads/2023/05/cava.jpg?fit=129%2C194&ssl=1",
+        "bio": "Bruno Cava é formado em engenharia pelo ITA e em direito pela UERJ, instituição em que também realizou o mestrado em filosofia do direito. Ministrou por diversos anos cursos livres sobre a filosofia de Deleuze e Guattari em instituições culturais do Rio de Janeiro, como Museu da República, Casa de Rui Barbosa e Cinemateca do MAM. Escreveu vários livros, como “A multidão foi ao deserto” (AnnaBlume, 2013), traduziu “Marx além de Marx” (Autonomia Literária, 2016 [1979]), de Antonio Negri, e é editor da Revista Lugar Comum (UFRJ). Participa da rede Universidade Nômade (uninomade.net), do coletivo de organização de cursos livres Mil Brechas e do canal de Youtube Horazul, onde também oferece aulas e cursos sobre filosofia e cinema."
+    },
+    { 
+        "_id": 4,
+        "name": "Olgária Matos",
+        "image": "https://i0.wp.com/cefaeditorial.com/wp-content/uploads/2023/04/olagaria-matos-orientadora-paulo-ghiraldelli.jpg?fit=200%2C300&ssl=1",
+        "bio": "Possui graduação em Filosofia pela Universidade de São Paulo (1970), mestrado em Filosofia – Université Paris 1 (Panthéon-Sorbonne) (1974) e doutorado em Filosofia pela Universidade de São Paulo (1985). Atualmente é professora titular aposentada da Universidade de São Paulo e professora titular no Departamento de Filosofia da EFLCH-Unifesp. É Coordenadora da Cátedra Edward Saïd (Unifesp). Tem experiência na área de Filosofia, com ênfase em História da Filosofia, atuando principalmente nos seguintes temas: tempo, filosofia, razão, democracia e história."
+    }
+]
